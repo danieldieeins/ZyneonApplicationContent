@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/zyneon-2023-128x128.png",
-    "mbrsiteDomain": "zdwxzwni0a",
+    "mbrsiteDomain": "yu5guxszaj",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -72,7 +72,8 @@
     "witsec-white-label": true,
     "witsec-mailform": false,
     "witsec-search": false,
-    "global_header_custom": "<style>img{pointer-events: none;}</style>\n        <script>\n\n        function callJavaMethod(message) {\n            console.log(\"[Launcher-Bridge] \"+message);\n        }\n\n        function syncAccount(message) {\n            document.body.innerHTML = document.body.innerHTML.replace('%username%', message);\n        }\n\n        function syncButton(message) {\n            document.body.innerHTML = document.body.innerHTML.replace('%acc_button%', message);\n        }\n\n        document.addEventListener('contextmenu',function(e){\n            e.preventDefault();\n        });\n\n        document.addEventListener('dragstart', function(e){\n            e.preventDefault();\n        });\n\n        </script>"
+    "global_header_custom": "<style>img{pointer-events: none;}</style>\n        <script>\n\n        function callJavaMethod(message) {\n            console.log(\"[Launcher-Bridge] \"+message);\n        }\n\n        function syncAccount(message) {\n            document.body.innerHTML = document.body.innerHTML.replace('%username%', message);\n        }\n\n        function syncButton(message) {\n            document.body.innerHTML = document.body.innerHTML.replace('%acc_button%', message);\n        }\n\n        document.addEventListener('contextmenu',function(e){\n            e.preventDefault();\n        });\n\n        document.addEventListener('dragstart', function(e){\n            e.preventDefault();\n        });\n\n        </script>",
+    "global_footer_custom": "<script>callJavaMethod(\"connector.sync\")</script>"
   },
   "pages": {
     "argria2.html": {
