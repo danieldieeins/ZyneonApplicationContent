@@ -1,0 +1,10 @@
+{
+  "modpack": {
+    "id": "test",
+    "name": "Test",
+    "version": "1.0",
+    "minecraft": "1.20",
+    "download": "https://test.zip",
+    "instance": "instances/test/"
+  }
+}
