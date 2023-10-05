@@ -1,0 +1,14 @@
+{
+  "modpack": {
+    "id": "official/base/1.16.5",
+    "name": "Zyneon Modpack Base 1.16.5",
+    "version": "2023.1",
+    "minecraft": "1.16.5",
+    "forge": {
+      "version": "36.2.39",
+      "type": "NEW"
+    },
+    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/base/zyneon-modpack-base-1.16.5.zip",
+    "instance": "instances/official/base/1.16.5/"
+  }
+}
