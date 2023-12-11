@@ -1,11 +1,11 @@
 {
   "modpack": {
-    "id": "official/zyneonplus/dynamic",
+    "id": "official/zyneonplus/vr",
     "name": "Zyneon+ VR",
-    "version": "2023.4",
+    "version": "2023.4 VR",
     "minecraft": "1.20.2",
     "fabric": "0.15.0",
-    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/dynamic.zip",
-    "instance": "instances/official/zyneonplus/dynamic/"
+    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/vr.zip",
+    "instance": "instances/official/zyneonplus/vr/"
   }
 }
