@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Zyneon Application</title>
+        <link href='assets/boxicons/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="stylesheet" href="assets/css/submenu.css" id='submenu-style'>
+    </head>
+    <body>
+
+        <!--Sidebar-->
+        <div class="sidebar">
+
+            <!--List-->
+            <ul>
+                <li>
+                    <a href="#" onclick="changeFrame('settings/start.html')">
+                        <i class='bx bx-compass' ></i>
+                        <span class="nav-item" id="bold">General settings</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" onclick="changeFrame('settings/global.html')">
+                        <i class='bx bx-globe' ></i>
+                        <span class="nav-item" id="bold">Global settings</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" onclick="changeFrame('settings/profile.html')">
+                        <i class='bx bxs-user' ></i>
+                        <span class="nav-item" id="bold">Profile settings</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" onclick="callJavaMethod('button.refresh')">
+                        <i class='bx bx-refresh'></i>
+                        <span class="nav-item" id="bold">Refresh application</span>
+                    </a>
+                </li>
+                <li id="exit-button">
+                    <a href="#" onclick="callJavaMethod('button.close')">
+                        <i class='bx bxs-exit' ></i>
+                        <span class="nav-item" id="bold">Exit application</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        
+        <!--Main content-->
+        <div class="main-content">
+            <iframe src="settings/start.html" class="iframe" id="iframe">
+                Failed to load.
+            </iframe>
+        </div>
+
+    </body>
+    <script src="assets/js/functions.js"></script>
+    <script>sidebar.classList.toggle('active');</script>
+</html>

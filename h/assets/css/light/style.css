@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0a0516;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.main-content {
+    position: relative;
+    min-height: 100vh;
+    top: 0;
+    transition: all 0.5s ease;
+    padding: 1rem;
+}
+
+.card {
+    background: #03000b;
+    border-radius: 1rem;
+    padding: 100;
+}
+
+.card img {
+    background: #03000b;
+    border-radius: 1rem;
+}
+
+.card h1 {
+    padding: 1rem;
+    background: #03000b;
+    border-radius: 1rem;
+}
+
+h1.white {
+    color: #fff;
+}
