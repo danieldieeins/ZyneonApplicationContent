@@ -2,9 +2,9 @@
   "modpack": {
     "id": "official/zyneonplus/dynamic",
     "name": "Zyneon+ Latest",
-    "version": "2023.4",
-    "minecraft": "1.20.2",
-    "fabric": "0.15.0",
+    "version": "2024.1",
+    "minecraft": "1.20.4",
+    "fabric": "0.15.3",
     "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/dynamic.zip",
     "instance": "instances/official/zyneonplus/dynamic/"
   }

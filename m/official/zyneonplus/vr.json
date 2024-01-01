@@ -2,9 +2,9 @@
   "modpack": {
     "id": "official/zyneonplus/vr",
     "name": "Zyneon+ VR",
-    "version": "2023.4 VR",
-    "minecraft": "1.20.2",
-    "fabric": "0.15.0",
+    "version": "2024.1 VR",
+    "minecraft": "1.20.4",
+    "fabric": "0.15.3",
     "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/vr.zip",
     "instance": "instances/official/zyneonplus/vr/"
   }
