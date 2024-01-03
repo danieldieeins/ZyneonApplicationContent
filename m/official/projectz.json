@@ -2,13 +2,13 @@
   "modpack": {
     "id": "official/projectz",
     "name": "ProjectZ",
-    "version": "3.0.0 Beta 1",
+    "version": "3.0.0 Beta 2",
     "minecraft": "1.16.5",
     "forge": {
       "version": "36.2.41",
       "type": "NEW"
     },
-    "download": "https://www.dropbox.com/scl/fi/qq3fho6tif2myl0oucx2u/projectz-3.0.0-beta.zip?rlkey=rq0cpoelbo07md9ax5lpbyi47&dl=1",
+    "download": "https://drive.zyneonstudios.com/index.php/s/TgfFskMMwMkEo4D/download",
     "instance": "instances/official/projectz/"
   }
 }
