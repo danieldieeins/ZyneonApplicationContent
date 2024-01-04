@@ -2,7 +2,7 @@
   "modpack": {
     "id": "official/projectz",
     "name": "ProjectZ",
-    "version": "3.0.0-beta1",
+    "version": "3.0.0-beta2",
     "minecraft": "1.16.5",
     "forge": {
       "version": "36.2.41",
