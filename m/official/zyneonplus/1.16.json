@@ -1,0 +1,11 @@
+{
+  "modpack": {
+    "id": "official/zyneonplus/1.16",
+    "name": "Zyneon+ 1.16.5",
+    "version": "ZPN",
+    "minecraft": "1.16.5",
+    "fabric": "0.14.22",
+    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.16.zip",
+    "instance": "instances/official/zyneonplus/1.16/"
+  }
+}
