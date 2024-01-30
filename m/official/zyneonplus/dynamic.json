@@ -2,7 +2,8 @@
   "modpack": {
     "id": "official/zyneonplus/dynamic",
     "name": "Zyneon+ Latest",
-    "version": "2024.1",
+    "version": "2024.1.1",
+    "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
     "minecraft": "1.20.4",
     "fabric": "0.15.3",
     "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/dynamic.zip",

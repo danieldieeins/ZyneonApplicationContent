@@ -2,7 +2,8 @@
   "modpack": {
     "id": "official/zyneonplus/1.16",
     "name": "Zyneon+ 1.16.5",
-    "version": "ZPN",
+    "version": "2023.9",
+    "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
     "minecraft": "1.16.5",
     "fabric": "0.14.22",
     "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.16.zip",
