@@ -3,6 +3,7 @@
     "id": "official/projectz",
     "name": "ProjectZ",
     "version": "3.0.0-beta.1",
+    "description": "Try out the newest modpack by Zyneon Studios!",
     "minecraft": "1.16.5",
     "forge": {
       "version": "36.2.41",
