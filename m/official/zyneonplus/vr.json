@@ -1,8 +1,8 @@
 {
   "modpack": {
     "id": "official/zyneonplus/vr",
-    "name": "Zyneon+ VR",
-    "version": "2024.1.1 VR",
+    "name": "Zyneon+ Latest VR",
+    "version": "2024.1.2 VR",
     "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together. And you can enjoy all of this in virtual reality!",
     "minecraft": "1.20.4",
     "fabric": "0.15.3",
