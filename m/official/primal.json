@@ -2,7 +2,7 @@
   "modpack": {
     "id": "official/primal",
     "name": "Primal",
-    "version": "2023.1",
+    "version": "2023.1.1",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.18.2",
     "forge": {
