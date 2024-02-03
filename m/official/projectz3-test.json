@@ -1,0 +1,15 @@
+{
+  "modpack": {
+    "id": "official/projectz3-test",
+    "name": "ProjectZ 3: Test",
+    "version": "2021.6",
+    "description": "If you can see that, something is wrong!",
+    "minecraft": "1.12.2",
+    "forge": {
+      "version": "14.23.5.2860",
+      "type": "NEW"
+    },
+    "download": "https://www.dropbox.com/scl/fi/089c5357yaifddvshcui1/zyneon.zip?rlkey=zezdvmnhlen4h5bw22ba9w4ie&dl=1",
+    "instance": "instances/official/projectz3-test/"
+  }
+}

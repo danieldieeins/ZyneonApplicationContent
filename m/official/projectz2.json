@@ -1,0 +1,15 @@
+{
+  "modpack": {
+    "id": "official/projectz2",
+    "name": "ProjectZ 2",
+    "version": "2018.1",
+    "description": "If you can see that, something is wrong!",
+    "minecraft": "1.7.10",
+    "forge": {
+      "version": "10.13.4.1614-1.7.10",
+      "type": "OLD"
+    },
+    "download": "https://www.dropbox.com/scl/fi/f0iapndm0e5jenvj28v6q/projectz2-normal.zip?rlkey=dl3frahayrl5hrei2j2d6kmt1&dl=1",
+    "instance": "instances/official/projectz2/"
+  }
+}
