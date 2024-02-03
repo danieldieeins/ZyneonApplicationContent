@@ -1,8 +1,8 @@
 {
   "modpack": {
     "id": "official/projectz3",
-    "name": "Project'Z 3",
-    "version": "2022.5",
+    "name": "ProjectZ 3",
+    "version": "2022.5.7",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.16.5",
     "forge": {
