@@ -1,0 +1,15 @@
+{
+  "modpack": {
+    "id": "official/projectz3",
+    "name": "Project'Z 3",
+    "version": "2022.5",
+    "description": "If you can see that, something is wrong!",
+    "minecraft": "1.16.5",
+    "forge": {
+      "version": "36.2.35",
+      "type": "NEW"
+    },
+    "download": "https://www.dropbox.com/scl/fi/naj4b7j6ukcwhgn3b7agp/projectz3-normal.zip?rlkey=dfb7k97uhepcs52mgefcby9vj&dl=1",
+    "instance": "instances/official/projectz3/"
+  }
+}

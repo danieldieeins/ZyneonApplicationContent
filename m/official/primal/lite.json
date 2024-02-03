@@ -1,0 +1,15 @@
+{
+  "modpack": {
+    "id": "official/primal",
+    "name": "Primal (Lite)",
+    "version": "2023.1",
+    "description": "If you can see that, something is wrong!",
+    "minecraft": "1.18.2",
+    "forge": {
+      "version": "40.2.0",
+      "type": "NEW"
+    },
+    "download": "https://www.dropbox.com/scl/fi/pfrqxdv0rx7a9flbhfhgm/lite.zip?rlkey=tp6swcs6xi0ml9xmpn536q2a0&dl=1",
+    "instance": "instances/official/primal/"
+  }
+}

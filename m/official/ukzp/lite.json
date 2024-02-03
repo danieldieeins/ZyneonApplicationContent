@@ -1,0 +1,15 @@
+{
+  "modpack": {
+    "id": "official/ukzp",
+    "name": "UKZP (Lite)",
+    "version": "2023.1",
+    "description": "Ultra Krasses Zyneon Projekt Lite! (alte Version)",
+    "minecraft": "1.18.2",
+    "forge": {
+      "version": "40.2.0",
+      "type": "NEW"
+    },
+    "download": "https://www.dropbox.com/scl/fi/3wy6h81ds0h6kcigjfd6n/lite.zip?rlkey=m0n1pptir4ljb8c6i78va132i&dl=1",
+    "instance": "instances/official/ukzp/"
+  }
+}

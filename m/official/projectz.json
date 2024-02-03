@@ -1,7 +1,7 @@
 {
   "modpack": {
     "id": "official/projectz",
-    "name": "ProjectZ",
+    "name": "Project'Z",
     "version": "2024.2-beta.1",
     "description": "Try out the newest modpack by Zyneon Studios!",
     "minecraft": "1.16.5",
@@ -9,7 +9,7 @@
       "version": "36.2.41",
       "type": "NEW"
     },
-    "download": "https://drive.zyneonstudios.com/app/projectz.zip",
+    "download": "https://www.dropbox.com/scl/fi/ab1okol4le7fvrefjlm59/projectz-normal.zip?rlkey=5dpy48tnc62s11peu9v4t84yj&dl=1",
     "instance": "instances/official/projectz/"
   }
 }
