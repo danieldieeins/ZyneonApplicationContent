@@ -2,14 +2,14 @@
   "modpack": {
     "id": "official/projectz2",
     "name": "ProjectZ 2",
-    "version": "2018.1",
+    "version": "2018.4",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.7.10",
     "forge": {
       "version": "10.13.4.1614-1.7.10",
       "type": "OLD"
     },
-    "download": "https://www.dropbox.com/scl/fi/f0iapndm0e5jenvj28v6q/projectz2-normal.zip?rlkey=dl3frahayrl5hrei2j2d6kmt1&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/bv4l3o5oqiv01c0zoa26y/projectz2-normal.zip?rlkey=zn7a1uxwi0l5xp3i5ffxfcfnc&dl=1",
     "instance": "instances/official/projectz2/"
   }
 }
