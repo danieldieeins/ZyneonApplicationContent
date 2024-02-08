@@ -1,6 +1,7 @@
 {
   "modpack": {
     "id": "official/base/1.16.5",
+    "author": "nerotvlive",
     "name": "Zyneon Modpack Base 1.16.5",
     "version": "2024.2",
     "minecraft": "1.16.5",
