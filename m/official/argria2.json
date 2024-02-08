@@ -2,7 +2,7 @@
   "modpack": {
     "id": "official/argria2",
     "name": "Argria II",
-    "version": "Beta 10.1",
+    "version": "beta.1",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.18.2",
     "forge": {
@@ -10,6 +10,8 @@
       "type": "NEW"
     },
     "download": "https://www.dropbox.com/scl/fi/yusy5w99e1u1pwmvhx7n9/argria2-beta10.zip?rlkey\u003dpa1gmvhvaq5lddcw82uy10em0\u0026dl\u003d1",
-    "instance": "instances/official/argria2/"
-  }
+    "instance": "instances/official/argria2/",
+    "hidden": "true"
+  },
+  "scheme": "2024.2"
 }

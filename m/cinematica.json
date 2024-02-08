@@ -2,7 +2,7 @@
   "modpack": {
     "id": "cinematica",
     "name": "Cinematica",
-    "version": "2024.2",
+    "version": "2024.2.1",
     "description": "Create awesome Minecraft Machinimas!",
     "minecraft": "1.12.2",
     "forge": {
@@ -10,6 +10,8 @@
       "type": "NEW"
     },
     "download": "https://www.dropbox.com/scl/fi/3r2uwusxnxz14o7icri0q/cinematica.zip?rlkey=i6ybcttyyijsaz360wjrlnnt5&dl=1",
-    "instance": "instances/cinematica/"
-  }
+    "instance": "instances/cinematica/",
+    "hidden": "false"
+  },
+  "scheme": "2024.2"
 }

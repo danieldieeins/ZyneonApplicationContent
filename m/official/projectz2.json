@@ -2,7 +2,7 @@
   "modpack": {
     "id": "official/projectz2",
     "name": "ProjectZ 2",
-    "version": "2018.4",
+    "version": "2024.2",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.7.10",
     "forge": {
@@ -10,6 +10,8 @@
       "type": "OLD"
     },
     "download": "https://www.dropbox.com/scl/fi/bv4l3o5oqiv01c0zoa26y/projectz2-normal.zip?rlkey=zn7a1uxwi0l5xp3i5ffxfcfnc&dl=1",
-    "instance": "instances/official/projectz2/"
-  }
+    "instance": "instances/official/projectz2/",
+    "hidden": "false"
+  },
+  "scheme": "2024.2"
 }

@@ -2,7 +2,7 @@
   "modpack": {
     "id": "official/primal",
     "name": "Primal",
-    "version": "2023.1.1",
+    "version": "beta.1",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.18.2",
     "forge": {
@@ -10,6 +10,8 @@
       "type": "NEW"
     },
     "download": "https://www.dropbox.com/scl/fi/mmda4i0hdlhbydwn3xfea/normal.zip?rlkey=6c2br7izn055xcy0870oqpvtt&dl=1",
-    "instance": "instances/official/primal/"
-  }
+    "instance": "instances/official/primal/",
+    "hidden": "true"
+  },
+  "scheme": "2024.2"
 }

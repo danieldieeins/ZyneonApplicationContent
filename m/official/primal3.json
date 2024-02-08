@@ -2,7 +2,7 @@
   "modpack": {
     "id": "official/primal3",
     "name": "Primal 3: Definitive Edition",
-    "version": "2023.2",
+    "version": "2024.2",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.18.2",
     "forge": {
@@ -10,6 +10,8 @@
       "type": "NEW"
     },
     "download": "https://www.dropbox.com/scl/fi/g6200w4xfvcodg88g490o/primal3-normal.zip?rlkey=onlhp46ecyyn51hc9aitu17a0&dl=1",
-    "instance": "instances/official/primal3/"
-  }
+    "instance": "instances/official/primal3/",
+    "hidden": "false"
+  },
+  "scheme": "2024.2"
 }

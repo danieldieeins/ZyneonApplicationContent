@@ -2,7 +2,7 @@
   "modpack": {
     "id": "official/ukzp",
     "name": "UKZP",
-    "version": "2023.1.1",
+    "version": "2024.2",
     "description": "Ultra Krasses Zyneon Projekt! (alte Version)",
     "minecraft": "1.18.2",
     "forge": {
@@ -10,6 +10,8 @@
       "type": "NEW"
     },
     "download": "https://www.dropbox.com/scl/fi/rmvwmcydgws8bp7ykgzi6/normal.zip?rlkey=db50ytd4b990r2rjtrd8akcql&dl=1",
-    "instance": "instances/official/ukzp/"
-  }
+    "instance": "instances/official/ukzp/",
+    "hidden": "false"
+  },
+  "scheme": "2024.2"
 }
