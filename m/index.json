@@ -10,6 +10,9 @@
         ],
         "1-18-2": [
             "official/zyneonplus/1.18",
+            "official/argria2",
+            "official/primal",
+            "official/primal-lite",
             "official/primal3",
             "official/ukzp",
             "official/ukzp-lite"
@@ -18,10 +21,14 @@
             "official/zyneonplus/1.17"
         ],
         "1-16-5": [
-            "official/zyneonplus/1.16"
+            "official/zyneonplus/1.16",
+            "official/base/1.16.5",
+            "official/projectz",
+            "official/projectz3-zyneon"
         ],
         "1-12-2": [
             "official/projectz3",
+            "official/projectz3-test",
             "cinematica"
         ],
         "1-7-10": [
