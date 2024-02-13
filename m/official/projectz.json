@@ -1,10 +1,10 @@
 {
   "modpack": {
     "id": "official/projectz",
-    "author": "nerotvlive",
+    "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/vHDWFgD/projectz.png",
     "name": "ProjectZ",
-    "version": "2024.2-beta.2",
+    "version": "2024.2-beta.3",
     "description": "Try out the newest modpack by Zyneon Studios!",
     "minecraft": "1.16.5",
     "forge": {

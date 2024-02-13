@@ -1,10 +1,10 @@
 {
   "modpack": {
     "id": "official/projectz2",
-    "author": "nerotvlive",
+    "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/R63CBPD/projectz2.png",
     "name": "ProjectZ 2",
-    "version": "2024.2",
+    "version": "2024.2.1",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.7.10",
     "forge": {
@@ -13,7 +13,7 @@
     },
     "download": "https://www.dropbox.com/scl/fi/bv4l3o5oqiv01c0zoa26y/projectz2-normal.zip?rlkey=zn7a1uxwi0l5xp3i5ffxfcfnc&dl=1",
     "instance": "instances/official/projectz2/",
-    "hidden": "false"
+    "hidden": "true"
   },
   "scheme": "2024.2"
 }

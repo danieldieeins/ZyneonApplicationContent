@@ -1,10 +1,10 @@
 {
   "modpack": {
     "id": "official/projectz3-test",
-    "author": "nerotvlive",
+    "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/v4Pyc8v/projectz3-test.png",
     "name": "ProjectZ 3: Test",
-    "version": "2024.2",
+    "version": "2024.2.1",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.12.2",
     "forge": {

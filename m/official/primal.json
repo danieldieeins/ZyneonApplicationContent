@@ -1,10 +1,10 @@
 {
   "modpack": {
     "id": "official/primal",
-    "author": "nerotvlive",
+    "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/Rj9vkrt/primal.png",
     "name": "Primal",
-    "version": "beta.1",
+    "version": "beta.2",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.18.2",
     "forge": {

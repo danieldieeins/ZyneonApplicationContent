@@ -1,10 +1,10 @@
 {
   "modpack": {
     "id": "official/ukzp",
-    "author": "nerotvlive",
+    "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/LPmfvdk/ukzp.png",
     "name": "UKZP",
-    "version": "2024.2",
+    "version": "2024.2.1",
     "description": "Ultra Krasses Zyneon Projekt! (alte Version)",
     "minecraft": "1.18.2",
     "forge": {
@@ -13,7 +13,7 @@
     },
     "download": "https://www.dropbox.com/scl/fi/rmvwmcydgws8bp7ykgzi6/normal.zip?rlkey=db50ytd4b990r2rjtrd8akcql&dl=1",
     "instance": "instances/official/ukzp/",
-    "hidden": "false"
+    "hidden": "true"
   },
   "scheme": "2024.2"
 }

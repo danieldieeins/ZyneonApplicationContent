@@ -1,10 +1,10 @@
 {
   "modpack": {
     "id": "official/primal-lite",
-    "author": "nerotvlive",
+    "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/xHzJZkg/primal-lite.png",
     "name": "Primal (Lite)",
-    "version": "beta.1",
+    "version": "beta.2",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.18.2",
     "forge": {

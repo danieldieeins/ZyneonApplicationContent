@@ -1,10 +1,10 @@
 {
   "modpack": {
     "id": "official/primal3",
-    "author": "nerotvlive",
+    "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/M9XWBts/primal3.png",
     "name": "Primal 3: Definitive Edition",
-    "version": "2024.2",
+    "version": "2024.2.1",
     "description": "If you can see that, something is wrong!",
     "minecraft": "1.18.2",
     "forge": {
@@ -13,7 +13,7 @@
     },
     "download": "https://www.dropbox.com/scl/fi/g6200w4xfvcodg88g490o/primal3-normal.zip?rlkey=onlhp46ecyyn51hc9aitu17a0&dl=1",
     "instance": "instances/official/primal3/",
-    "hidden": "false"
+    "hidden": "true"
   },
   "scheme": "2024.2"
 }
