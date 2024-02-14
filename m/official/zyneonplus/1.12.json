@@ -1,0 +1,18 @@
+{
+  "modpack": {
+    "id": "official/zyneonplus/1.12",
+    "author": "Zyneon Studios",
+    "name": "Zyneon+ 1.12.2",
+    "version": "2024.2",
+    "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+    "minecraft": "1.12.2",
+    "forge": {
+      "version": "14.23.5.2860",
+      "type": "NEW"
+    },
+    "download": "https://www.dropbox.com/s/ydhw7yt3zkhonaf/zyneonplus-L1.1-MC1.12.2.zip?dl=1",
+    "instance": "instances/official/zyneonplus/1.12/",
+    "hidden": "false"
+  },
+  "scheme": "2024.2"
+}

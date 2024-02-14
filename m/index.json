@@ -26,9 +26,13 @@
             "official/projectz3-zyneon"
         ],
         "1-12-2": [
+            "official/zyneonplus/1.12",
             "official/projectz3",
             "official/projectz3-test",
             "cinematica"
+        ],
+        "1-8-9": [
+            "official/zyneonplus/1.8"
         ],
         "1-7-10": [
             "official/projectz2"
