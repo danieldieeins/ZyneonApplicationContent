@@ -3,5 +3,25 @@
     "version": "2024.2.2",
     "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/l/application-main-2024.2.2.jar",
     "installed": "0"
+  },
+  "runtime": {
+    "windows-x64-jre": "https://www.dropbox.com/scl/fi/h3t9ms1tbimi8du4kl6yn/windows-x64_jre-21.zip?rlkey=f73pxuksmem2axuyvxd9nab1m&dl=1",
+    "windows-x64-jre-11": "https://www.dropbox.com/scl/fi/8a051io6mz56x3fg8x2pk/windows-x64_jre-11.zip?rlkey=w7kymqya9p309gqocr38a9zyi&dl=1",
+    "windows-x64-jre-8": "https://www.dropbox.com/scl/fi/10cshz5yduf2q48swmhmo/windows-x64_jre-8.zip?rlkey=6u91rcn0qtu1ibow5k56i517t&dl=1",
+    "windows-aarch64-jre": "https://www.dropbox.com/scl/fi/fj6gx42rz9kdczm0j5ean/windows-aarch64_jre-21.zip?rlkey=wjtgvd0w5e10yxaxm1ppdnxql&dl=1",
+    "windows-aarch64-jre-11": "https://www.dropbox.com/scl/fi/tf8eyjh5ynbc2rqhss5l8/windows-aarch64_jre-11.zip?rlkey=e0yvxi3zjsh9xztvzb8wzxcjk&dl=1",
+    "windows-aarch64-jre-8": "https://www.dropbox.com/scl/fi/4kw6qllm9quc5wtdrplcc/windows-aarch64_jre-8.zip?rlkey=ijxahs4lfl5vthubtbpxiufuo&dl=1",
+    "linux-x64-jre": "https://www.dropbox.com/scl/fi/pxbtco2ear0cg4cvnuhhd/linux-x64_jre-21.zip?rlkey=1mmgkls8ywa204t6w51yvzyhs&dl=1",
+    "linux-x64-jre-11": "https://www.dropbox.com/scl/fi/s0jqsqqvmqjjhen9qyums/linux-x64_jre-11.zip?rlkey=2gc5x793gtw5gs2u83i895mgn&dl=1",
+    "linux-x64-jre-8": "https://www.dropbox.com/scl/fi/3u4cf755oae6673g818rv/linux-x64_jre-8.zip?rlkey=v9t8dc3ohetboqyzwijtwtwbm&dl=1",
+    "linux-aarch64-jre": "https://www.dropbox.com/scl/fi/pnqm6hyx9nm2gn94wstnt/linux-aarch64_jre-21.zip?rlkey=oksifys0ldji9a9w8yu576o0r&dl=1",
+    "linux-aarch64-jre-11": "https://www.dropbox.com/scl/fi/gsp58d5hv7xav2mhnve2o/linux-aarch64_jre-11.zip?rlkey=flz0z37as15qexbyegiaqvoxm&dl=1",
+    "linux-aarch64-jre-8": "https://www.dropbox.com/scl/fi/kkvlqcmlbstr2jasqwmrd/linux-aarch64_jre-8.zip?rlkey=pyvkurfgtrth5zfx2buzwzgww&dl=1",
+    "macos-x64-jre": "https://www.dropbox.com/scl/fi/h2fo6zgwuszfj2tsd0lwg/macos-x64_jre-21.zip?rlkey=4mnl67emik15vvhjin570yj1l&dl=1",
+    "macos-x64-jre-11": "https://www.dropbox.com/scl/fi/h6uw62q4qji60ohmq4sab/macos-x64_jre-11.zip?rlkey=vidgzwzu73rpu13g5ghww558m&dl=1",
+    "macos-x64-jre-8": "https://www.dropbox.com/scl/fi/58nhpbezxjz46n9tw11ye/macos-x64_jre-8.zip?rlkey=5fimttt9ihn5ehl14aelgvdnf&dl=1",
+    "macos-aarch64-jre": "https://www.dropbox.com/scl/fi/hhvq790cxfbtrbf1r0qvq/macos-aarch64_jre-21.zip?rlkey=vmxsx08vwufm2enaps9v5vc6s&dl=1",
+    "macos-aarch64-jre-11": "https://www.dropbox.com/scl/fi/smm36nq18ckbsrldodpj1/macos-aarch64_jre-11.zip?rlkey=t41qd9l5igqyirwn04jnx2ve3&dl=1",
+    "macos-aarch64-jre-8": "https://www.dropbox.com/scl/fi/saicwmz7721zhh9e2clbo/macos-aarch64_jre-8.zip?rlkey=imz5lzivdtwaw27iy1fw38k1n&dl=1"
   }
 }
