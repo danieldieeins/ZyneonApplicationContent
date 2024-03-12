@@ -1,0 +1,14 @@
+{
+  "updates": [
+    {
+      "version": "2024.3.1",
+      "title": "Matter",
+      "changelog": "test²"
+    },
+    {
+      "version": "2024.3",
+      "title": "Ploccium",
+      "changelog": "test"
+    }
+  ]
+}
