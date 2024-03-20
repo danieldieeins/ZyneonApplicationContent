@@ -1,7 +1,7 @@
 {
   "updater": {
-    "version": "2024.3",
-    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/i/ZyneonApplication-2024.3.jar",
+    "version": "2024.3.1",
+    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/i/ZyneonApplication-2024.3.1.jar",
     "installed": "0"
   },
   "runtime": {
