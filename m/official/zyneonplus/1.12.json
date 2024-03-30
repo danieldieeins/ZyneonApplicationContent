@@ -12,7 +12,7 @@
     },
     "download": "https://www.dropbox.com/s/ydhw7yt3zkhonaf/zyneonplus-L1.1-MC1.12.2.zip?dl=1",
     "instance": "instances/official/zyneonplus/1.12/",
-    "hidden": "true"
+    "hidden": "false"
   },
   "scheme": "2024.2"
 }
