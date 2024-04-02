@@ -1,16 +1,29 @@
 {
-  "modpack": {
-    "id": "official/zyneonplus/1.18",
-    "author": "Zyneon Studios",
-    "thumbnail": "https://i.ibb.co/LkmySgK/1-18.png",
-    "name": "Zyneon+ 1.18.2",
-    "version": "2024.2.1",
-    "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-    "minecraft": "1.18.2",
-    "fabric": "0.14.22",
-    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.18.zip",
-    "instance": "instances/official/zyneonplus/1.18/",
-    "hidden": "false"
+  "instance": {
+    "info": {
+      "author": "Zyneon",
+      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "name": "Zyneon+ 1.18.2",
+      "version": "2024.3"
+    },
+    "meta": {
+      "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.18.zip",
+      "isHidden": false,
+      "id": "official/zyneonplus/1.18",
+      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.18.json",
+      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "tags": [
+        "minecraft-1.18.2",
+        "modloder-fabric"
+      ]
+    },
+    "resources": {
+      "thumbnail": "https://i.ibb.co/LkmySgK/1-18.png"
+    },
+    "versions": {
+      "fabric": "0.14.22",
+      "minecraft": "1.18.2"
+    }
   },
-  "scheme": "2024.2"
+  "scheme": "2024.3"
 }
