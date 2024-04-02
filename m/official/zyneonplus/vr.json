@@ -4,10 +4,10 @@
     "author": "Zyneon Studios",
     "thumbnail": "https://i.ibb.co/Pgswfkm/vr.png",
     "name": "Zyneon+ Latest VR",
-    "version": "2024.2.1 VR",
+    "version": "2024.4 VR",
     "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together. And you can enjoy all of this in virtual reality!",
     "minecraft": "1.20.4",
-    "fabric": "0.15.3",
+    "fabric": "0.15.7",
     "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/vr.zip",
     "instance": "instances/official/zyneonplus/vr/",
     "hidden": "false"
