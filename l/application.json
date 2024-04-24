@@ -4,6 +4,12 @@
     "download": "https://github.com/danieldieeins/ZyneonApplicationContent/raw/main/i/ZyneonApplication-2024.4.6.jar",
     "installed": "0"
   },
+  "message": {
+    "id": "motd",
+    "title": "",
+    "text": "",
+    "actions": ""
+  },
   "runtime": {
     "windows-x64_jre-21": "https://www.dropbox.com/scl/fi/h3t9ms1tbimi8du4kl6yn/windows-x64_jre-21.zip?rlkey=f73pxuksmem2axuyvxd9nab1m&dl=1",
     "windows-x64_jre-11": "https://www.dropbox.com/scl/fi/8a051io6mz56x3fg8x2pk/windows-x64_jre-11.zip?rlkey=w7kymqya9p309gqocr38a9zyi&dl=1",
