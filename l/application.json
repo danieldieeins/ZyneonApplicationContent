@@ -1,13 +1,13 @@
 {
   "updater": {
-    "version": "2024.4.6a1",
+    "version": "2024.4.6a",
     "download": "https://github.com/danieldieeins/ZyneonApplicationContent/raw/main/i/ZyneonApplication-2024.4.6a.jar",
     "installed": "0"
   },
   "message": {
-    "id": "hallo-schleimerf",
-    "title": "Hallo Schleimer",
-    "text": "Wie gehts",
+    "id": "motd",
+    "title": "Notifications!",
+    "text": "Stay up to date with notifications!",
     "actions": ""
   },
   "runtime": {
