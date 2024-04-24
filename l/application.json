@@ -5,10 +5,10 @@
     "installed": "0"
   },
   "message": {
-    "id": "motd",
-    "title": "",
-    "text": "",
-    "actions": ""
+    "id": "first-motd",
+    "title": "New: Notifications",
+    "text": "This is a brand new feature.",
+    "actions": "Stay up to date!"
   },
   "runtime": {
     "windows-x64_jre-21": "https://www.dropbox.com/scl/fi/h3t9ms1tbimi8du4kl6yn/windows-x64_jre-21.zip?rlkey=f73pxuksmem2axuyvxd9nab1m&dl=1",
