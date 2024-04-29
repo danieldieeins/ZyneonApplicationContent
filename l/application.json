@@ -5,9 +5,9 @@
     "installed": "0"
   },
   "message": {
-    "id": "motd",
-    "title": "Notifications!",
-    "text": "Stay up to date with notifications!",
+    "id": "neoforge-quilt",
+    "title": "New modloaders!",
+    "text": "The Quilt and NeoForge modloaders have arrived!",
     "actions": ""
   },
   "runtime": {
