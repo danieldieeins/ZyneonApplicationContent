@@ -1,13 +1,13 @@
 {
   "updater": {
-    "version": "2024.4.7",
+    "version": "2024.5",
     "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/i/ZyneonApplication.jar",
     "installed": "0"
   },
   "message": {
-    "id": "neoforge-quilt",
-    "title": "New modloaders!",
-    "text": "The Quilt and NeoForge modloaders have arrived!",
+    "id": "",
+    "title": "",
+    "text": "",
     "actions": ""
   },
   "runtime": {
