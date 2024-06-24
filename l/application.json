@@ -5,10 +5,10 @@
     "installed": "0"
   },
   "message": {
-    "id": "shervann-experimental",
-    "title": "The shervann update channel is gone!",
-    "text": "We moved the application rewrite to the experimental channel!",
-    "actions": "<a onclick=\"callJavaMethod('sync.settings.general');\">Change update channel</a>"
+    "id": "",
+    "title": "",
+    "text": "",
+    "actions": ""
   },
   "runtime": {
     "windows-x64_jre-21": "https://www.dropbox.com/scl/fi/h3t9ms1tbimi8du4kl6yn/windows-x64_jre-21.zip?rlkey=f73pxuksmem2axuyvxd9nab1m&dl=1",
