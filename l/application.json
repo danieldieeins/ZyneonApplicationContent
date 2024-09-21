@@ -5,10 +5,10 @@
     "installed": "0"
   },
   "message": {
-    "id": "",
-    "title": "",
-    "text": "",
-    "actions": ""
+    "id": "old-version",
+    "title": "Hey you! You're using the old NEXUS App!",
+    "text": "This version no longer receives updates, switch to the new one!",
+    "actions": "<a onclick='connector(`sync.settings.general`);'>Change update channel</a>"
   },
   "runtime": {
     "windows-x64_jre-21": "https://www.dropbox.com/scl/fi/h3t9ms1tbimi8du4kl6yn/windows-x64_jre-21.zip?rlkey=f73pxuksmem2axuyvxd9nab1m&dl=1",
