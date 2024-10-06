@@ -1,7 +1,7 @@
 {
   "updater": {
-    "version": "2024.10-prerelease.1",
-    "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/bootstrapper/2024.10-prerelease.1/bootstrapper-2024.10-prerelease.1.jar",
+    "version": "2024.10",
+    "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/bootstrapper/2024.10/bootstrapper-2024.10.jar",
     "installed": "0"
   },
   "message": {
