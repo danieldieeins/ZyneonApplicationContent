@@ -1,7 +1,7 @@
 {
   "launcher": {
-    "version": "2024.6",
-    "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/i/ZyneonApplication.jar",
+    "version": "2024.10-prerelease.1",
+    "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/bootstrapper/2024.10-prerelease.1/bootstrapper-2024.10-prerelease.1.jar",
     "installed": "0"
   }
 }
